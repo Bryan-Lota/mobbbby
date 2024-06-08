@@ -2308,12 +2308,12 @@
   height: 9197.3px;
 }
 .background {
-  width: 100%;
+  width: 900px;
   position: relative;
   background-color: var(--color-white);
   height: 100%;
   overflow-y: auto;
-  overflow-x: auto;
+  overflow-x: hidden;
   flex-shrink: 0;
 }
 .container {
