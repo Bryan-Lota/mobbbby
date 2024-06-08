@@ -2308,7 +2308,7 @@
   height: 9197.3px;
 }
 .background {
-  width: 900px;
+  width: 100%;
   position: relative;
   background-color: var(--color-white);
   height: 100%;
